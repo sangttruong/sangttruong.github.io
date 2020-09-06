@@ -11,4 +11,7 @@ I'm a senior computer science and economics student at DePauw University. I enjo
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
 <a href="https://www.instagram.com/sangttruong">
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a> 
+<a href="https://www.facebook.com/sangttruong0">
+<img src="https://img.shields.io/badge/-Facebook-%4eb13a5" alt="Facebook" /></a> 
+
 </p>
