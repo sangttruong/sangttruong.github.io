@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Sang. Nice to meet you! 
 
-I'm a senior computer science and economics student at DePauw University. I enjoy research questions related to machine learning, statistics, game theory, and decision theory. I'm also interested in computational methods for drug development and chemical space exploration, particularly universal approximation for density functional theory! I can be found on the internet as sangttruong, so please connect as I love to talk and collaborate!
+I'm a senior computer science and economics student at DePauw University. I enjoy research questions related to machine learning, statistics, game theory, and decision theory. I'm also interested in computational methods for drug development. I can be found on the internet as sangttruong, so please connect as I love to talk and collaborate!
 
 <p align="center">
 <a href="https://scholar.google.com/citations?user=3vc6zDsAAAAJ&hl=en">
