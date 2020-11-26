@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Sang. Nice to meet you! 
 
-I'm a senior computer science and economics student at DePauw University. I enjoy research questions related to machine learning, statistics, game theory, and decision theory. I'm also interested in computational methods for drug development. I can be found on the internet as sangttruong, so please connect as I love to talk and collaborate!
+I develop machine learning models to study complex interconnected systems arising in chemistry and economics. I'm currently a senior at DePauw University (IN). Check out my <a href="https://drive.google.com/drive/folders/1gsAtxHmku5Iadxs2srXqOUzvMnoRg2jN?usp=sharing">CV</a> and recent <a href="https://scholar.google.com/citations?user=3vc6zDsAAAAJ&hl=en">publications</a>.
 
 <p align="center">
 <a href="https://scholar.google.com/citations?user=3vc6zDsAAAAJ&hl=en">
